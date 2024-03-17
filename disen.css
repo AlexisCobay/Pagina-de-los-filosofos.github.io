@@ -1,0 +1,41 @@
+header {
+    background-color: rgba(0, 0, 0, 0.5);
+    top: 0;
+    width: 100%;
+    position: realtive;
+    background-image: linear-gradient(#FFDE99, #E8C190); 
+    font-size: 40px;
+    Font-family: Forte;
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+
+.text{
+    color: Black;
+    font-family:Arial;
+}
+
+.btn{
+    position: Relative;
+    top: 20;
+    right: 10;
+}
+
+img{
+    position: relative;
+    top: 5;
+    right: 5;
+}
+
+tabl{
+   position: Relative;
+   top: 5;
+   right: 5;
+}
+
+   
+
